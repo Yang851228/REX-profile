@@ -2,12 +2,12 @@
 <!DOCTYE>
 <html>
 <head>
-
-</head>
 <style>
   p{
   color:blue}
 </style>
+</head>
+
 <body>
   <p>hello</p>
 </body>
