@@ -1,4 +1,4 @@
-# html.index
+# index.html
 <!DOCTYE>
 <html>
 <head>
